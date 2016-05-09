@@ -1,4 +1,4 @@
-# bot-o-de-a-o
+# bot-o-de-acao
 
 import javax.swing.*; 
 import java.awt.*;
